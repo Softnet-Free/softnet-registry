@@ -33,3 +33,4 @@ C:\softnet.2024.cs\Softnet.Registry\Softnet.Registry\obj\Debug\net8.0\Softnet.Re
 C:\softnet.2024.cs\Softnet.Registry\Softnet.Registry\obj\Debug\net8.0\Softnet.Registry.genruntimeconfig.cache
 C:\softnet.2024.cs\Softnet.Registry\Softnet.Registry\obj\Debug\net8.0\ref\Softnet.Registry.dll
 C:\softnet.2024.cs\Softnet.Registry\Softnet.Registry\bin\Debug\net8.0\Asn1Codec.dll
+C:\softnet.2024.cs\Softnet.Registry\Softnet.Registry\obj\Debug\net8.0\Softnet.Registry.sourcelink.json

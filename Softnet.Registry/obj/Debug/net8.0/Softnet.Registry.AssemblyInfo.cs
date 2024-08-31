@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Softnet.Registry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583daaf1fb512380c973e5c3baa29e1e714bcc3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Softnet.Registry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Softnet.Registry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
