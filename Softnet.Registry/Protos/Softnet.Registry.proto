@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "Softnet.Registry";
+
+service SoftnetRegistry {
+  rpc RegisterServer (ServerData) returns (stream SyncMessage);
+}
+
+message ServerData {
+	string serviceName = 10;
+	repeated string targetServices = 20;
+}
+
+message SyncMessage {
+	int32 msgType = 10;
+	bytes data = 20;
+}
